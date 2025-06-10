@@ -1,4 +1,4 @@
-## Java skills
+## Elite Java skills
 
 - [x] Oracle Certified Associate
 - [ ] Oracle Certified Professional
@@ -12,11 +12,11 @@
 
 ```
 $ streem
-h1 = "Java Skills"
+h1 = "Elite Java Skills"
 h2 = "Professional Look"
 [h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, "Scarlet 'A'"] | stdout
 
-Java Skills
+Elite Java Skills
 [*] OCA
 [ ] OCP
 [ ] OCD

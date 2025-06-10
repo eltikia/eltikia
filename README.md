@@ -15,6 +15,7 @@ $ streem
 h1 = "Java Skills"
 h2 = "Professional Look"
 [h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, "Scarlet 'A'"] | stdout
+
 Java Skills
 [*] OCA
 [ ] OCP

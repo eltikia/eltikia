@@ -6,7 +6,7 @@
 
 ### Professional look
 
-[![The Out Campaign: Scarlet Letter of Atheism](scarlet_a.png)](https://kironia.github.io/kironia/ "⚛ The Out Campaign: Scarlet Letter of Atheism")
+[![The Out Campaign: Scarlet Letter of Atheism](scarlet_a.png)](https://kironia.github.io/kironia/ "The Out Campaign: Scarlet Letter of Atheism")
 
 ### Speaking Streem
 

@@ -11,8 +11,10 @@
 ### Speaking Streem
 
 ```
-$ streem < /dev/stdin
-["Java Skills", "[*] OCA", "[ ] OCP", "[ ] OCD", "", "Professional Look", "Scarlet 'A'"] | stdout
+$ streem
+h1 = "Java Skills"
+h2 = "Professional Look"
+[h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, "Scarlet 'A'"] | stdout
 Java Skills
 [*] OCA
 [ ] OCP

@@ -1,10 +1,10 @@
-## Elite Java skills
+## Java skills
 
 - [x] Oracle Certified Associate
 - [ ] Oracle Certified Professional
 - [ ] Oracle Certified Developer
 
-### Professional look
+### Elite look
 
 [![The Out Campaign: Scarlet Letter of Atheism](scarlet_a.png)](https://kironia.github.io/kironia/ "The Out Campaign: Scarlet Letter of Atheism")
 
@@ -12,15 +12,16 @@
 
 ```
 $ streem
-h1 = "Elite Java Skills"
-h2 = "Professional Look"
-[h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, "Scarlet 'A'"] | stdout
+h1 = "Java Skills"
+h2 = "Elite look"
+a = "Scarlet 'A'"
+[h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, a] | stdout
 
-Elite Java Skills
+Java Skills
 [*] OCA
 [ ] OCP
 [ ] OCD
 
-Professional Look
+Elite look
 Scarlet 'A'
 ```

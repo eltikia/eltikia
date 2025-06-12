@@ -4,17 +4,17 @@
 - [ ] Oracle Certified Professional
 - [ ] Oracle Certified Developer
 
-### Elite look
+### Inspired look
 
-[![The Out Campaign: Scarlet Letter of Atheism](scarlet_a.png)](https://kironia.github.io/kironia/ "The Out Campaign: Scarlet Letter of Atheism")
+[![The Out Campaign: Scarlet Letter of Atheism](scarlet_a.png)](https://kironia.github.io/kironia/ "Java skills &#124; Kironia")
 
 ### Speaking Streem
 
 ```
 $ streem
 h1 = "Java Skills"
-h2 = "Elite look"
-a = "Scarlet 'A'"
+h2 = "Inspired look"
+a = "The Out Campaign: Scarlet Letter of Atheism"
 [h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, a] | stdout
 
 Java Skills
@@ -22,6 +22,6 @@ Java Skills
 [ ] OCP
 [ ] OCD
 
-Elite look
-Scarlet 'A'
+Inspired look
+The Out Campaign: Scarlet Letter of Atheism
 ```

@@ -11,17 +11,9 @@
 ### Speaking Streem
 
 ```
-$ streem
+# speaking Streem
 h1 = "Java Skills"
 h2 = "Inspired look"
 a = "The Out Campaign: Scarlet Letter of Atheism"
 [h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, a] | stdout
-
-Java Skills
-[*] OCA
-[ ] OCP
-[ ] OCD
-
-Inspired look
-The Out Campaign: Scarlet Letter of Atheism
 ```

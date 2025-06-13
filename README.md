@@ -13,7 +13,9 @@
 ```
 # speaking Streem
 h1 = "Java Skills"
+section1 = [h1, "[*] OCA", "[ ] OCP", "[ ] OCD"]
 h2 = "Inspired look"
 a = "The Out Campaign: Scarlet Letter of Atheism"
-[h1, "[*] OCA", "[ ] OCP", "[ ] OCD", "", h2, a] | stdout
+section2 = ["", h2, a]
+concat(section1, section2) | stdout
 ```

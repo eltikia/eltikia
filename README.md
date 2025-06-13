@@ -10,7 +10,7 @@
 
 ### Speaking Streem
 
-```
+```sh
 # speaking Streem
 h1 = "Java Skills"
 section1 = [h1, "[*] OCA", "[ ] OCP", "[ ] OCD"]
